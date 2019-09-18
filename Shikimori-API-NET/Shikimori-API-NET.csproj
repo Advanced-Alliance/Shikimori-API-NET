@@ -1,8 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>Shikimori_API_NET</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Extentions\" />
+    <Folder Include="Docs\" />
+    <Folder Include="Classes\" />
+    <Folder Include="Tests\" />
+  </ItemGroup>
 
 </Project>
