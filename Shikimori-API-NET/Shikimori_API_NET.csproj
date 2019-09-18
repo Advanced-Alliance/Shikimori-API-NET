@@ -6,10 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Tests\**" />
+    <EmbeddedResource Remove="Tests\**" />
+    <None Remove="Tests\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Extentions\" />
     <Folder Include="Docs\" />
     <Folder Include="Classes\" />
-    <Folder Include="Tests\" />
   </ItemGroup>
 
 </Project>
