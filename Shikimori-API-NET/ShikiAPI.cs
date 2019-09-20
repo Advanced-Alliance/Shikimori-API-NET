@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Shikimori_API_NET
+namespace ShikimoriAPI
 {
-    public class ShikimoriAPI
+    public class ShikAPI
     {
         // TODO перенести в конфиг
         //private static string API_URL { get { return "https://shikimori.one/api/"; } }

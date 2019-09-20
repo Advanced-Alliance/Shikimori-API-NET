@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shikimori-API-NET\Shikimori_API_NET.csproj" />
+    <ProjectReference Include="..\Shikimori-API-NET\ShikimoriAPI.csproj" />
   </ItemGroup>
 
 </Project>

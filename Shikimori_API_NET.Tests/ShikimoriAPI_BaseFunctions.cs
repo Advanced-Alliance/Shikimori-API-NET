@@ -1,16 +1,16 @@
 using System;
 using Xunit;
-using Shikimori_API_NET;
+using ShikimoriAPI;
 
-namespace Shikimori_API_NET.Tests
+namespace ShikimoriAPI.Tests
 {
     public class ShikimoriAPI_BaseFunctions
     {
-        private readonly ShikimoriAPI _shikimoriAPI;
+        private readonly ShikAPI _shikimoriAPI;
 
         public ShikimoriAPI_BaseFunctions()
         {
-            _shikimoriAPI = new ShikimoriAPI();
+            _shikimoriAPI = new ShikAPI();
         }
 
         [Fact]

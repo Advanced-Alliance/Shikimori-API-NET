@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <RootNamespace>Shikimori_API_NET</RootNamespace>
+    <RootNamespace>ShikimoriAPI</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
