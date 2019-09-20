@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShikimoriAPI", "Shikimori-API-NET\ShikimoriAPI.csproj", "{D9DC10AD-7E30-4D1E-8E49-EE5434A9B374}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShikimoriAPI", "ShikimoriAPI\ShikimoriAPI.csproj", "{D9DC10AD-7E30-4D1E-8E49-EE5434A9B374}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShikimoriAPI.Tests", "Shikimori_API_NET.Tests\ShikimoriAPI.Tests.csproj", "{BC141945-320A-40B0-AB0C-2F8F94686B0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShikimoriAPI.Tests", "ShikimoriAPI.Tests\ShikimoriAPI.Tests.csproj", "{BC141945-320A-40B0-AB0C-2F8F94686B0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
